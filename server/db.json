@@ -1,0 +1,15 @@
+{
+  "streams": [
+    {
+      "title": "test stream",
+      "description": "test",
+      "id": 1
+    },
+    {
+      "title": "Bananaaa Stream",
+      "description": "Test banana",
+      "userId": "111015522158766569971",
+      "id": 2
+    }
+  ]
+}
